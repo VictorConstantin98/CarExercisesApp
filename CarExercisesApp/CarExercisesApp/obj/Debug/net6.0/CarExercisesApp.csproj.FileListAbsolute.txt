@@ -1,0 +1,15 @@
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\obj\Debug\net6.0\CarExercisesApp.csproj.AssemblyReference.cache
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\obj\Debug\net6.0\CarExercisesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\obj\Debug\net6.0\CarExercisesApp.AssemblyInfoInputs.cache
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\obj\Debug\net6.0\CarExercisesApp.AssemblyInfo.cs
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\obj\Debug\net6.0\CarExercisesApp.csproj.CoreCompileInputs.cache
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\bin\Debug\net6.0\CarExercisesApp.exe
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\bin\Debug\net6.0\CarExercisesApp.deps.json
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\bin\Debug\net6.0\CarExercisesApp.runtimeconfig.json
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\bin\Debug\net6.0\CarExercisesApp.dll
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\bin\Debug\net6.0\ref\CarExercisesApp.dll
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\bin\Debug\net6.0\CarExercisesApp.pdb
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\obj\Debug\net6.0\CarExercisesApp.dll
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\obj\Debug\net6.0\ref\CarExercisesApp.dll
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\obj\Debug\net6.0\CarExercisesApp.pdb
+C:\Users\Costi\source\repos\CarExercisesApp\CarExercisesApp\obj\Debug\net6.0\CarExercisesApp.genruntimeconfig.cache
